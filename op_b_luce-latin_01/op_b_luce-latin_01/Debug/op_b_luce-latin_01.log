@@ -1,0 +1,7 @@
+﻿  funkcije.cpp
+C:\Users\Luca\Desktop\op-lv-luce-latin\op_b_luce-latin_01\op_b_luce-latin_01\funkcije.cpp(37,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Luca\Desktop\op-lv-luce-latin\op_b_luce-latin_01\op_b_luce-latin_01\funkcije.cpp(146,52): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luca\Desktop\op-lv-luce-latin\op_b_luce-latin_01\op_b_luce-latin_01\funkcije.cpp(148,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  op_b_luce-latin_01.vcxproj -> C:\Users\Luca\Desktop\op-lv-luce-latin\op_b_luce-latin_01\Debug\op_b_luce-latin_01.exe
