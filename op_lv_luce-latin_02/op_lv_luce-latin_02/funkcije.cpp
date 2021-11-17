@@ -3,7 +3,7 @@
 
 
 //zadatak 1
-/*
+
 void minmax(unsigned* niz, unsigned ind, unsigned& min, unsigned& max)
 {
     for (int i = 0; i < ind; i++)
@@ -14,20 +14,14 @@ void minmax(unsigned* niz, unsigned ind, unsigned& min, unsigned& max)
             min = niz[i];
     }
 }
-*/
-
 
 
 //zadatak 2
-/*
+
 int& funkcija(int* niz, int i)
 {
     return niz[i];
 }
-*/
-
-
-
 
 
 //zadatak 3
@@ -51,7 +45,6 @@ int intersect(rectangle*& r, const circle& c, int br_rectangle)
 
 
 
-/*
 //zadatak 4
 
 void MyVector::vector_new(size_t capacity) //primam broj od capac
@@ -84,7 +77,7 @@ void MyVector::vector_push_back(size_t element)  //adds a new element at the end
         delete[] old;
     }
     arr[size] = element;
-    size++; // ide na kraj tako da bi se na ovom arr[size] bilo nula na pvom unosu
+    size++; // ide na kraj tako da bi se na ovom arr[size] bilo nula na prvom unosu
 }
 
 
@@ -125,4 +118,3 @@ void MyVector::print_vector()
         cout << arr[i] << " ";
     cout << endl;
 }
-*/
