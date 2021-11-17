@@ -17,8 +17,6 @@ int main()
     */
 
 
-
-
     //zadatak 2
     /*Napisati funkciju koja vraæa referencu na neki element niza. Koristeæi povratnu vrijednost funkcije kao lvalue uveæajte i-ti element niza za jedan.*/
     /*
@@ -29,8 +27,6 @@ int main()
     funkcija(arr, n)=arr[n]+1;
     cout << arr[n] << endl;
     */
-
-
 
 
     // zadatak 3

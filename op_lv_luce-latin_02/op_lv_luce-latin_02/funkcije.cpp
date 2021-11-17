@@ -81,7 +81,6 @@ void MyVector::vector_push_back(size_t element)  //adds a new element at the end
 }
 
 
-
 void MyVector::vector_pop_back()  //removes the last element in the vector
 {
     size = size - 1;
