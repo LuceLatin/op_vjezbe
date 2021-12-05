@@ -1,0 +1,11 @@
+﻿  funk.cpp
+C:\Users\Luca\Desktop\ZA PREDAT\op_lv_luce-latin_06\op_lv_luce-latin_06\funk.cpp(18,23): warning C4018: '<': signed/unsigned mismatch
+  funk2.cpp
+C:\Users\Luca\Desktop\ZA PREDAT\op_lv_luce-latin_06\op_lv_luce-latin_06\funk2.cpp(4,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Luca\Desktop\ZA PREDAT\op_lv_luce-latin_06\op_lv_luce-latin_06\funk2.cpp(16,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Luca\Desktop\ZA PREDAT\op_lv_luce-latin_06\op_lv_luce-latin_06\funk2.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Luca\Desktop\ZA PREDAT\op_lv_luce-latin_06\op_lv_luce-latin_06\funk2.cpp(46,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Luca\Desktop\ZA PREDAT\op_lv_luce-latin_06\op_lv_luce-latin_06\funk2.cpp(94,23): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  op_lv_luce-latin_06.vcxproj -> C:\Users\Luca\Desktop\ZA PREDAT\op_lv_luce-latin_06\Debug\op_lv_luce-latin_06.exe
