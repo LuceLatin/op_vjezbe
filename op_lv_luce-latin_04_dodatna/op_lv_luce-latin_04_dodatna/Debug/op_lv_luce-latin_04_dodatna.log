@@ -1,0 +1,5 @@
+﻿  func.cpp
+C:\Users\Luca\Desktop\ZA PREDAT\op_lv_luce-latin_04_dodatna\op_lv_luce-latin_04_dodatna\func.cpp(24,41): warning C4834: discarding return value of function with 'nodiscard' attribute
+  main.cpp
+  Generating Code...
+  op_lv_luce-latin_04_dodatna.vcxproj -> C:\Users\Luca\Desktop\ZA PREDAT\op_lv_luce-latin_04_dodatna\Debug\op_lv_luce-latin_04_dodatna.exe
