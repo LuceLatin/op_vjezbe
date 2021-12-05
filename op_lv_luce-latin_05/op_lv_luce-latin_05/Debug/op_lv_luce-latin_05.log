@@ -1,0 +1,13 @@
+﻿  funkcije.cpp
+C:\Users\Luca\Desktop\ZA PREDAT\op_lv_luce-latin_05\op_lv_luce-latin_05\funkcije.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Luca\Desktop\ZA PREDAT\op_lv_luce-latin_05\op_lv_luce-latin_05\funkcije.cpp(54,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Luca\Desktop\ZA PREDAT\op_lv_luce-latin_05\op_lv_luce-latin_05\funkcije.cpp(56,11): warning C4101: 'hit': unreferenced local variable
+  main.cpp
+  target.hpp
+  Generating Code...
+main.obj : error LNK2019: unresolved external symbol "public: void __thiscall Pointposition::set_0(void)" (?set_0@Pointposition@@QAEXXZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: void __thiscall Pointposition::get_xyz(void)" (?get_xyz@Pointposition@@QAEXXZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: void __thiscall Pointposition::print_xyz(void)const " (?print_xyz@Pointposition@@QBEXXZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: double __thiscall Pointposition::distance2D(class Pointposition &,class Pointposition &)" (?distance2D@Pointposition@@QAENAAV1@0@Z) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: double __thiscall Pointposition::distance3D(class Pointposition &,class Pointposition &)" (?distance3D@Pointposition@@QAENAAV1@0@Z) referenced in function _main
+C:\Users\Luca\Desktop\ZA PREDAT\op_lv_luce-latin_05\Debug\op_lv_luce-latin_05.exe : fatal error LNK1120: 5 unresolved externals
