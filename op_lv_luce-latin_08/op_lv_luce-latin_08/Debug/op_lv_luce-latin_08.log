@@ -1,0 +1,10 @@
+﻿  funkcije.cpp
+C:\Users\Luca\Desktop\op_lv_luce-latin_08\op_lv_luce-latin_08\funkcije.hpp(69,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luca\Desktop\op_lv_luce-latin_08\op_lv_luce-latin_08\funkcije.cpp(103,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luca\Desktop\op_lv_luce-latin_08\op_lv_luce-latin_08\funkcije.cpp(104,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luca\Desktop\op_lv_luce-latin_08\op_lv_luce-latin_08\funkcije.cpp(114,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luca\Desktop\op_lv_luce-latin_08\op_lv_luce-latin_08\funkcije.cpp(115,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+C:\Users\Luca\Desktop\op_lv_luce-latin_08\op_lv_luce-latin_08\funkcije.hpp(69,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  op_lv_luce-latin_08.vcxproj -> C:\Users\Luca\Desktop\op_lv_luce-latin_08\Debug\op_lv_luce-latin_08.exe
