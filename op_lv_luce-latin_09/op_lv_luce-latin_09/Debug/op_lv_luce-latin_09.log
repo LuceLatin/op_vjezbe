@@ -1,0 +1,6 @@
+﻿  Black_widow.hpp
+  functions.cpp
+C:\Users\Luca\Desktop\op_lv_luce-latin_09\op_lv_luce-latin_09\functions.cpp(52,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating Code...
+  op_lv_luce-latin_09.vcxproj -> C:\Users\Luca\Desktop\op_lv_luce-latin_09\Debug\op_lv_luce-latin_09.exe
