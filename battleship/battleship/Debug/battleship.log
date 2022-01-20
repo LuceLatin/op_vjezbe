@@ -1,0 +1,8 @@
+﻿  boat.cpp
+C:\Users\Luca\Desktop\git\battleship\battleship\boat.cpp(11,9): warning C4129: ' ': unrecognized character escape sequence
+  Computer.cpp
+  main.cpp
+C:\Users\Luca\Desktop\git\battleship\battleship\main.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+  Generating Code...
+  battleship.vcxproj -> C:\Users\Luca\Desktop\git\battleship\Debug\battleship.exe
