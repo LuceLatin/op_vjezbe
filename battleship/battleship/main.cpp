@@ -1,4 +1,4 @@
-#include "board.hpp"
+#include "Board.hpp"
 
 int main() {
 	front();
